@@ -1,6 +1,6 @@
 # 🎣 Stardew Valley Fishing Analysis
 
-Images/Pescando.gif
+![Pescando](Images/Pescando.gif)
 
 ## 📖 Sobre o Projeto
 
