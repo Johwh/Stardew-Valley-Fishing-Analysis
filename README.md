@@ -1,4 +1,4 @@
-# 🎣 Stardew Valley Fishing Data Analysis
+# 🎣 Stardew Valley Fishing Analysis
 
 ## 📖 Sobre o Projeto
 
