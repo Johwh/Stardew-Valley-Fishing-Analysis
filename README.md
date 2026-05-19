@@ -20,13 +20,13 @@ O projeto foi desenvolvido com foco em aprendizado prático de análise de dados
 
 ---
 
-# 📊 Objetivos da Análise
+# 📊 Análises Realizadas
 
-Durante o projeto serão realizadas análises como:
+Durante o projeto foram realizadas análises como:
 
-- Peixes mais lucrativos
-- Peixes mais difíceis
-- Peixes mais lucrativos e fáceis para início de jogo
+- Peixes com melhor custo-benefício
+- Relação entre dificuldade e lucro
+- Comparação entre valor de venda e dificuldade de captura
 
 ---
 
@@ -49,11 +49,13 @@ Algumas informações foram simplificadas para manter consistência e facilitar 
 # 🧹 Tratamento e Limpeza dos Dados
 
 O projeto também possui foco em:
+
 - Tratamento de valores nulos
-- Padronização de texto
-- Conversão de tipos
-- Limpeza de dados inconsistentes
-- Manipulação de DataFrames
+- Padronização de nomes e textos
+- Separação de horários de início e fim
+- Criação de novas colunas para análise
+- Ajuste de dados inconsistentes
+- Manipulação de DataFrames com Pandas
 
 ---
 
