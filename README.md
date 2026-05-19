@@ -1,5 +1,7 @@
 # 🎣 Stardew Valley Fishing Analysis
 
+Images/Pescando.gif
+
 ## 📖 Sobre o Projeto
 
 Projeto de análise de dados utilizando Python e Pandas com foco no sistema de pesca de Stardew Valley.
