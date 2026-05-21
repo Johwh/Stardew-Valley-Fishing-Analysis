@@ -1,3 +1,7 @@
+#🚧 EM ANDAMENTO 🚧
+
+
+
 # 🎣 Stardew Valley Fishing Analysis
 
 ![Pescando](Images/Pescando.gif)
